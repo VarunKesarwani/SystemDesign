@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ObjectOrientedProg/1.0.0": {
+        "dependencies": {
+          "DataStructureAndAlgo": "1.0.0"
+        },
+        "runtime": {
+          "ObjectOrientedProg.dll": {}
+        }
+      },
+      "DataStructureAndAlgo/1.0.0": {
+        "runtime": {
+          "DataStructureAndAlgo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObjectOrientedProg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataStructureAndAlgo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

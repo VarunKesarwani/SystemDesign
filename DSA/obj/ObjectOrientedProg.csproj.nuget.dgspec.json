@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\DevOps\\SystemDesign\\DSA\\ObjectOrientedProg.csproj": {}
+  },
+  "projects": {
+    "C:\\DevOps\\SystemDesign\\DSA\\DataStructureAndAlgo\\DataStructureAndAlgo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DevOps\\SystemDesign\\DSA\\DataStructureAndAlgo\\DataStructureAndAlgo.csproj",
+        "projectName": "DataStructureAndAlgo",
+        "projectPath": "C:\\DevOps\\SystemDesign\\DSA\\DataStructureAndAlgo\\DataStructureAndAlgo.csproj",
+        "packagesPath": "C:\\Users\\Bhavar Gupta\\.nuget\\packages\\",
+        "outputPath": "C:\\DevOps\\SystemDesign\\DSA\\DataStructureAndAlgo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bhavar Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\DevOps\\SystemDesign\\DSA\\ObjectOrientedProg.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DevOps\\SystemDesign\\DSA\\ObjectOrientedProg.csproj",
+        "projectName": "ObjectOrientedProg",
+        "projectPath": "C:\\DevOps\\SystemDesign\\DSA\\ObjectOrientedProg.csproj",
+        "packagesPath": "C:\\Users\\Bhavar Gupta\\.nuget\\packages\\",
+        "outputPath": "C:\\DevOps\\SystemDesign\\DSA\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bhavar Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\DevOps\\SystemDesign\\DSA\\DataStructureAndAlgo\\DataStructureAndAlgo.csproj": {
+                "projectPath": "C:\\DevOps\\SystemDesign\\DSA\\DataStructureAndAlgo\\DataStructureAndAlgo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DevOps\\SystemDesign\\DSA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02F0F6A1-E797-4111-AB27-890F93B4C05C}|ObjectOrientedProg.csproj|c:\\devops\\systemdesign\\dsa\\obj\\debug\\net8.0\\objectorientedprog.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F0F6A1-E797-4111-AB27-890F93B4C05C}|ObjectOrientedProg.csproj|solutionrelative:obj\\debug\\net8.0\\objectorientedprog.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F0F6A1-E797-4111-AB27-890F93B4C05C}|ObjectOrientedProg.csproj|c:\\devops\\systemdesign\\dsa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F0F6A1-E797-4111-AB27-890F93B4C05C}|ObjectOrientedProg.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObjectOrientedProg.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\DevOps\\SystemDesign\\DSA\\obj\\Debug\\net8.0\\ObjectOrientedProg.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\ObjectOrientedProg.AssemblyInfo.cs",
+              "ToolTip": "C:\\DevOps\\SystemDesign\\DSA\\obj\\Debug\\net8.0\\ObjectOrientedProg.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\ObjectOrientedProg.AssemblyInfo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAewBEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:29:14.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevOps\\SystemDesign\\DSA\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DevOps\\SystemDesign\\DSA\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwAoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:27:29.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

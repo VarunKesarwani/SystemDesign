@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientedProg", "ObjectOrientedProg.csproj", "{02F0F6A1-E797-4111-AB27-890F93B4C05C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructureAndAlgo", "..\DSA\DataStructureAndAlgo\DataStructureAndAlgo.csproj", "{5CF17B32-B89D-4EE1-AB61-61755C13361F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02F0F6A1-E797-4111-AB27-890F93B4C05C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F0F6A1-E797-4111-AB27-890F93B4C05C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F0F6A1-E797-4111-AB27-890F93B4C05C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F0F6A1-E797-4111-AB27-890F93B4C05C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CF17B32-B89D-4EE1-AB61-61755C13361F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF17B32-B89D-4EE1-AB61-61755C13361F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF17B32-B89D-4EE1-AB61-61755C13361F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF17B32-B89D-4EE1-AB61-61755C13361F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {475D7833-D5DB-4FD4-A944-C24780456637}
+	EndGlobalSection
+EndGlobal
